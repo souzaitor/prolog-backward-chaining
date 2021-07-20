@@ -27,5 +27,10 @@ O período desejado para a aplicação é dado em número de meses. O valor a se
 - Categoria 5: Renda fixa com curto e longo prazo (20%) e renda variável (80%) 
 - Categoria 6: Renda fixa com curto e longo prazo (15%), renda variável (65%) e minicontrato futuro (20%) 
 
+Usando um conjunto de sentenças da Base de Conhecimento na forma de clausulas definidas de primeira ordem fornecidas pela docente, foi feita  a  implementação  em Prolog  da  base  de  conhecimento,  incluindo    os  fatos  que  definem cada situação inicial, que são as informações específicas de um investidor em particular. 
+
+## Créditos
+Autor: Heitor Souza
+
 ## Copyright 
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
