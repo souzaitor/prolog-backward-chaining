@@ -33,4 +33,4 @@ Usando um conjunto de sentenças da Base de Conhecimento na forma de clausulas d
 Autor: Heitor Souza
 
 ## Copyright 
-This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
+This project is licensed under the terms of the MIT license.
